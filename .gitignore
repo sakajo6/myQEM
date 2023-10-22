@@ -1,0 +1,6 @@
+demo
+*.obj
+*.log
+*.o
+memo.md
+/archive
