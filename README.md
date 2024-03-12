@@ -1,6 +1,5 @@
 # myQEM
-<img width="257" alt="image" src="https://github.com/sakajo6/myQEM/assets/68010363/d668c311-00e8-4e39-968b-6f97957ffd5b">
-<img width="254" alt="image" src="https://github.com/sakajo6/myQEM/assets/68010363/a2c78ae7-dd5e-433a-8c88-eb00355c8176">
+<img width="423" alt="image" src="https://github.com/sakajo6/myQEM/assets/68010363/2a93a8fa-5288-417f-8815-8329d75ff16f">
 
 This is a demo of QEM mesh simplification. The user can obtain a mesh consisting of fewer faces while preserving the appearance. The user can also observe how the number of faces increases and decreases.
 
